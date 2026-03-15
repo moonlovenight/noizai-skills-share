@@ -6,13 +6,13 @@
 
 我让川普录了一段表白语音，发给了我室友。
 
-https://github.com/moonlovenight/noizai-skills-share/raw/main/trump_confession.mp4
+（视频：在 GitHub 网页编辑 README 时拖拽 trump_confession.mp4 到此处）
 
 ---
 
 说一下这东西是怎么玩的。跟龙虾说"我想用川普的声音说话"，它自己跑去 YouTube 找演讲视频，下载下来截一段干净的音频做参考样本，全程自动。克隆完之后你让它说什么它就用川普的声音说什么，中文英文都行。
 
-https://github.com/moonlovenight/noizai-skills-share/raw/main/musk_stock_rally.wav
+（音频：在 GitHub 网页编辑 README 时拖拽 musk_stock_rally.wav 到此处）
 
 还试了克隆 Musk 的声音播报股市新闻，上面这段就是。
 

@@ -12,7 +12,9 @@ https://github.com/user-attachments/assets/b2d560b8-51d4-4dfa-b1de-e4ba656d89c6
 
 说一下这东西是怎么玩的。跟龙虾说"我想用川普的声音说话"，它自己跑去 YouTube 找演讲视频，下载下来截一段干净的音频做参考样本，全程自动。克隆完之后你让它说什么它就用川普的声音说什么，中文英文都行。
 
-还试了克隆 Musk 的声音播报股市新闻：[musk_stock_rally.wav](https://github.com/user-attachments/files/26006815/musk_stock_rally.wav)
+还试了克隆 Musk 的声音播报股市新闻：
+
+https://github.com/user-attachments/assets/28b5e469-0ab0-43b0-877a-a84422c980a0
 
 ---
 

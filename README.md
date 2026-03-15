@@ -6,7 +6,7 @@
 
 我让川普录了一段表白语音，发给了我室友。
 
-https://github.com/user-attachments/assets/b2d560b8-51d4-4dfa-b1de-e4ba656d89c6
+https://github.com/user-attachments/assets/849a007a-a098-4c28-8264-dd167b2111a2
 
 ---
 

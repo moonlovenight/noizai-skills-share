@@ -1,0 +1,27 @@
+# 我用川普的声音给室友表白了
+
+事情是这样的。
+
+前几天给龙虾装了个语音 Skill（[NoizAI/skills](https://github.com/NoizAI/skills)），能克隆任何人的声音说话。克隆完川普之后听了一下效果，中文说得贼有那个味，脑子里立刻冒出一个邪恶的念头。
+
+我让川普录了一段表白语音，发给了我室友。
+
+https://github.com/moonlovenight/noizai-skills-share/raw/main/trump_confession.mp4
+
+---
+
+说一下这东西是怎么玩的。跟龙虾说"我想用川普的声音说话"，它自己跑去 YouTube 找演讲视频，下载下来截一段干净的音频做参考样本，全程自动。克隆完之后你让它说什么它就用川普的声音说什么，中文英文都行。
+
+https://github.com/moonlovenight/noizai-skills-share/raw/main/musk_stock_rally.wav
+
+还试了克隆 Musk 的声音播报股市新闻，上面这段就是。
+
+---
+
+怎么说呢，本来就是想整蛊室友，但玩着玩着发现龙虾有了声音之后感觉确实不一样了。以前它回复文字你扫一眼就过了，现在它发条语音过来你会认真听。有点像养猫 —— 猫叫一声你就觉得它有灵魂了，龙虾开口说话大概也是这么个意思。
+
+从另外一个角度来说，把龙虾作为赛博伴侣的佬友，用这个skill来赋予龙虾灵魂，其实也挺有意思的
+
+项目地址：https://github.com/NoizAI/skills
+
+我室友现在看到我打开飞书就紧张。笑死😆
